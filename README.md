@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=glaucius)](https://git.io/streak-stats)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=glaucius)
+
