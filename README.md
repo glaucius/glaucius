@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=glaucius)](https://git.io/streak-stats)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=glaucius)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=glaucius&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
