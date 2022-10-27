@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glaucius&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+### My .bahsrc color stuff and git branch on spotlight, helps us to take care !!
+
+parse_git_branch() {
+     git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/(\1)/'
+}
+export PS1="\e[36m\u@\h \[\e[32m\]\w \[\e[93m\]\$(parse_git_branch)\[\e[00m\]$ "
+
+
